@@ -42,7 +42,7 @@ EcoTracker: A Django-based Progressive Web App to track personal habits, monitor
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/username/eco-tracker.git
+git clone https://github.com/otienovicto/eco-tracker.git
 cd eco-tracker
 Create a virtual environment
 
@@ -83,7 +83,7 @@ View your progress in the dashboard and compare with others via leaderboards.
 Gamify your eco-friendly actions and maintain streaks for motivation.
 
 Screenshots
-(Add screenshots of your app here)
+
 
 Home Page
 
